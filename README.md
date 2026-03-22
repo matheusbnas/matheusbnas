@@ -9,6 +9,4 @@
   <a href="mailto:matheusbnas@gmail.com" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusbnas@gmail.com"></a>  
   </p>
 </p>
-
 </p>
-https://www.linkedin.com/in/matheusbnas/
